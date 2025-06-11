@@ -18,7 +18,7 @@ The analysis includes:
 4. **User Engagement vs Purchase Correlation**  
    Measuring the relationship between user activity (views, scrolls, clicks) and purchase behavior.
 
-If you'd like to explore the queries directly in BigQuery UI, you can [open this example query](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1secomm-ga4-data-analysis!2sus-central1!3sxpj9tvwh5p2y7bd2d9cee39f43cbbfef8525cbfa0348!2e1) (requires Google login and BigQuery registration).
+If you'd like to explore the queries directly in BigQuery UI, you can [open them at this link](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1secomm-ga4-data-analysis!2sus-central1!3sxpj9tvwh5p2y7bd2d9cee39f43cbbfef8525cbfa0348!2e1) (requires Google login and BigQuery registration).
 
 ## 🛠 Tools & Technologies
 - SQL (Standard SQL in BigQuery)
